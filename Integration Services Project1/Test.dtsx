@@ -11,8 +11,8 @@
   DTS:LocaleID="2057"
   DTS:ObjectName="Test"
   DTS:PackageType="5"
-  DTS:VersionBuild="3"
-  DTS:VersionGUID="{F5414193-8D6C-40B9-BFF5-9FE8900CA8ED}">
+  DTS:VersionBuild="4"
+  DTS:VersionGUID="{77E6B804-9B82-46D4-9296-09F77C8B3142}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:Variables>
@@ -94,10 +94,10 @@
           Id="Package\For Loop Container"
           TopLeft="112,61" />
         <AnnotationLayout
-          Text="GitHub Change v1&#xD;&#xA;"
+          Text="GitHub Change v2&#xD;&#xA;&#xA;"
           ParentId="Package"
           FontInfo="{assembly:Null}"
-          Size="126,60"
+          Size="126,72"
           Id="b7926e74-1a96-4a22-b374-21f705a0e580"
           TopLeft="30,18" />
       </GraphLayout>
